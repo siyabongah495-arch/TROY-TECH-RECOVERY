@@ -1,0 +1,6 @@
+{
+  "name": "Troy Tech Forensics",
+  "description": "Enterprise Digital Forensics, Blockchain Investigation & Cyber Incident Response Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
